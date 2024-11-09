@@ -3,7 +3,7 @@
 This repository is a comprehensive SQL guide, featuring standalone tutorials on specific topics to help learners deepen their understanding of SQL.
 
 ---
-
+ 
 ## Table of Contents
 
 - [USING Clause](./USING.md)
