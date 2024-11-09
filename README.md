@@ -7,7 +7,7 @@ This repository provides a comprehensive guide to SQL, with in-depth tutorials o
 ## Table of Contents
 
 - [Advanced Topics](#advanced-topics)
-  - [HAVING Clause](./Advanced/HAVING.md)
+  - [HAVING Clause](./HAVING.md)
 
 ---
 
