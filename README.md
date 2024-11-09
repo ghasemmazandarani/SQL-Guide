@@ -6,7 +6,7 @@ This repository is a comprehensive SQL guide, featuring standalone tutorials on 
 
 ## Table of Contents
 
-- [HAVING Clause](./HAVING.md)
+- [USING Clause](./USING.md)
 
 ---
 
